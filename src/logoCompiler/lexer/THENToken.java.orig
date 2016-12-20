@@ -1,0 +1,9 @@
+package logoCompiler.lexer;
+
+public class THENToken extends Token{
+
+
+    public static String getTokenName(){
+        return "THEN";
+    }
+}
